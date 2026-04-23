@@ -84,15 +84,13 @@ Clonar el repositorio:
 git clone https://github.com/Pavel0990/PROYECTO-FINAL-APPS-MOVILES.git
 Entrar al proyecto:
 cd autogest_final
+
 Instalar dependencias:
 flutter pub get
 Ejecutar la app:
 flutter run
 APK
 
-Puedes descargar la APK desde:
-
-(Aquí colocas el enlace de GitHub Releases o Google Drive)
 
 API
 
